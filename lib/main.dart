@@ -29,10 +29,10 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      initialRoute: "/home",
+      initialRoute: "/",
       getPages: [
         GetPage(
-          name: "/home",
+          name: "/",
           page: () => const HomePage(),
           binding: ProjectBinding(),
         ),
