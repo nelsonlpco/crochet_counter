@@ -64317,7 +64317,7 @@ r=$.rF()
 r.a=s.dy
 r.b=s.fr
 q=t.N
-q=A.aD(["en_US",A.aD(["title","Crochet Counter","Line","Line","Lines","Lines","Point","Point","Points","Points","Project","Project",p,"Confirm deletion of project @name","Create Project","Create Project","Edit Project","Edit Project","exclude","Exclude","save","Save","cancel","Cancel","confirm","Confirm","Project Name","Project name"],q,q),"pt_BR",A.aD(["title","Contador de Crochet","Line","Linha","Lines","Linhas","Point","Pointo","Points","Pointos","Project","Projeto",p,"Confirma a dele\xe7\xe3o do projeto @name","Edit Project","Edit Projeto","exclude","Excluir","save","Salvar","cancel","Cancelar","confirm","Confirmar","Project Name","Nome do projeto"],q,q)],q,t.GU)
+q=A.aD(["en_US",A.aD(["title","Crochet Counter","Line","Line","Lines","Lines","Point","Point","Points","Points","Project","Project",p,"Confirm deletion of project @name","Create Project","Create Project","Edit Project","Edit Project","exclude","Exclude","save","Save","cancel","Cancel","confirm","Confirm","Project Name","Project name"],q,q),"pt_BR",A.aD(["title","Contador de Crochet","Line","Linha","Lines","Linhas","Point","Ponto","Points","Pontos","Project","Projeto",p,"Confirma a dele\xe7\xe3o do projeto @name","Edit Project","Edit Projeto","exclude","Excluir","save","Salvar","cancel","Cancelar","confirm","Confirmar","Project Name","Nome do projeto"],q,q)],q,t.GU)
 r.c.L(0,q)
 $.eo().x2=null
 r=$.aeY()
