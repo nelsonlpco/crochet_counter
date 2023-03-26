@@ -34548,7 +34548,7 @@ case 1:return A.Z(q,r)}})
 return A.a_($async$j8,r)}}
 A.EE.prototype={
 J(a){var s=null,r=t.z
-return new A.uj("/home","crochet count",A.ahZ(s,B.hn,s),new A.PC(),B.mT,B.mT,!1,A.a([A.ad1(s,s,new A.FI(),B.mM,B.mP,B.U,s,!1,s,!0,s,"/home",!0,new A.XT(),s,s,s,!0,!0,s,s,s,s,r),A.ad1(s,s,new A.FJ(),B.mM,B.mP,B.U,s,!1,s,!0,s,"/project",!0,new A.XU(),s,s,s,!0,!0,s,s,s,s,r)],t.RT),s)}}
+return new A.uj("/","crochet count",A.ahZ(s,B.hn,s),new A.PC(),B.mT,B.mT,!1,A.a([A.ad1(s,s,new A.FI(),B.mM,B.mP,B.U,s,!1,s,!0,s,"/",!0,new A.XT(),s,s,s,!0,!0,s,s,s,s,r),A.ad1(s,s,new A.FJ(),B.mM,B.mP,B.U,s,!1,s,!0,s,"/project",!0,new A.XU(),s,s,s,!0,!0,s,s,s,s,r)],t.RT),s)}}
 A.XT.prototype={
 $0(){return B.zk},
 $S:244}
